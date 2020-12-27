@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height:100%;
+  width:100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.name {
+  text-align: center;
+}
+.subheading {
+  text-align: center;
+}
+.resume-section
+{
+  margin-top:100px
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #001858;
+}
+.first-name {
+  color: #f44336;
+}
+.last-name {
+  color: #ab47bc;
+}
+.subheading {
+  font-size: x-large;
+}
+.social-icons
+{
+  width:100%;
+  margin-bottom: 30px;
+}
+.center_icons
+{
+  width:50%;
+  margin:auto;
+}
+.social-icon {
+  position: relative;
+  font-size: 2.13em;
+ 
+}
+.social-icon:hover {
+  color: black;
+}
+.color-bars {
+  background-color: #e040fb;
+}
+.bar-styling {
+  height: 10px;
+  max-width: 350px;
+  margin-top: 15px;
+}
+.heading-text
+{
+  text-align: center;
+  color:#18FFFF;
+}
+.heading-text::first-letter
+{
+  color:#F50057;
+}
+.skills-name
+{
+  color:#FF3D00;
+  text-align: center;
+}
+.skills-quote
+{
+  font-family: 'Caveat', cursive;
+  font-size: 24px;
+}
+.education_card
+{
+  max-width: 450px;
+  margin:auto;
+  background-color: #3da9fc;
+}
+.education_card_head
+{
+  background-color: #000000;
+  color:#ffff;
+}
+footer
+{
+  text-align: center;
+  background-color: #0f0e17;
+  color:#ff8906;
+}
+.outro-text
+{
+  font-family:'Open Sans Condensed',sans-serif;
+  text-align: center;
+}
