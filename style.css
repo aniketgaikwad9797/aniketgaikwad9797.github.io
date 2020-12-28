@@ -72,6 +72,8 @@ body {
 }
 .card-header-color
 {
+  font-family: "Caveat", cursive;
+  font-size: 22px;
   background-color: #FEDBD0;
   color:#6200EE;
 }
