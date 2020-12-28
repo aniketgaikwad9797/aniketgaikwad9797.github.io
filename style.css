@@ -2,9 +2,10 @@
   margin: 0;
   padding: 0;
 }
-html,body{
-  height:100%;
-  width:100%;
+html,
+body {
+  height: 100%;
+  width: 100%;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -14,9 +15,8 @@ html,body{
 .subheading {
   text-align: center;
 }
-.resume-section
-{
-  margin-top:100px
+.resume-section {
+  margin-top: 100px;
 }
 .lead {
   font-size: 1.25rem;
@@ -32,20 +32,17 @@ html,body{
 .subheading {
   font-size: x-large;
 }
-.social-icons
-{
-  width:100%;
+.social-icons {
+  width: 100%;
   margin-bottom: 30px;
 }
-.center_icons
-{
-  width:50%;
-  margin:auto;
+.center_icons {
+  width: 50%;
+  margin: auto;
 }
 .social-icon {
   position: relative;
   font-size: 2.13em;
- 
 }
 .social-icon:hover {
   color: black;
@@ -58,44 +55,39 @@ html,body{
   max-width: 350px;
   margin-top: 15px;
 }
-.heading-text
-{
+.heading-text {
   text-align: center;
-  color:#18FFFF;
+  color: #18ffff;
 }
-.heading-text::first-letter
-{
-  color:#F50057;
+.heading-text::first-letter {
+  color: #f50057;
 }
-.skills-name
-{
-  color:#FF3D00;
+.skills-name {
+  color: #ff3d00;
   text-align: center;
 }
-.skills-quote
-{
-  font-family: 'Caveat', cursive;
+.skills-quote {
+  font-family: "Caveat", cursive;
   font-size: 24px;
 }
-.education_card
-{
+.education_card {
   max-width: 450px;
-  margin:auto;
+  margin: auto;
   background-color: #3da9fc;
 }
-.education_card_head
-{
+.education_card_head {
   background-color: #000000;
-  color:#ffff;
+  color: #ffff;
 }
-footer
-{
+footer {
   text-align: center;
   background-color: #0f0e17;
-  color:#ff8906;
+  color: #ff8906;
 }
-.outro-text
-{
-  font-family:'Open Sans Condensed',sans-serif;
+.outro-text {
+  font-family: "Open Sans Condensed", sans-serif;
   text-align: center;
 }
+/*
+Additional css
+*/
